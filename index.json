@@ -1,4 +1,21 @@
 {
-  "prompts": [],
+  "projects": [],
+  "prompts": [
+    {
+      "slug": "1",
+      "title": "1 Розгортання",
+      "description": "",
+      "tags": [],
+      "tools": [],
+      "kind": null,
+      "slot": null,
+      "images": [
+        "images/1-fzgu2u.webp"
+      ],
+      "created": "2026-11-03",
+      "variables": [],
+      "body": "1 Розгортання\nпідрозділів звукової\nрозвідки\nЧас визначається від моменту віддання \nнаказу командиром підрозділу в районі \nрозгортання центрального пункту до \nготовності до розвідки (до надання \nконтрольної стрічки). /plugin marketplace add anthropics/claude-plugins-official"
+    }
+  ],
   "skills": []
 }
